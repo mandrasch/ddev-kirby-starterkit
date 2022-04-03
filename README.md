@@ -1,6 +1,8 @@
 
 # ddev-kirby-starterkit
 
+[Kirby](https://getkirby.com/) cms meets [DDEV](https://ddev.readthedocs.io/en/stable/).
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mandrasch/ddev-kirby-starterkit/)
 
 Status: gitpod doesn't work yet, permission denied error. Tried to implement based on this PR https://github.com/mandrasch/ddev-breeze-inertia-vue-starter/pull/1
