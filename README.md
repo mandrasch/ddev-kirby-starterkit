@@ -3,6 +3,8 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mandrasch/ddev-kirby-starterkit/)
 
+Status: gitpod doesn't work yet, permission denied error. Tried to implement based on this PR https://github.com/mandrasch/ddev-breeze-inertia-vue-starter/pull/1
+
 ## Local usage
 
 Clone to your local laptop and run:
@@ -10,8 +12,6 @@ Clone to your local laptop and run:
 ```
 ddev start && ddev composer install && ddev launch
 ```
-
-Status: gitpod doesn't work yet, permission denied error. Tried to implement based on this PR https://github.com/mandrasch/ddev-breeze-inertia-vue-starter/pull/1
 
 ## How was this created?
 
