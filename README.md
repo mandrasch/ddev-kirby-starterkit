@@ -51,7 +51,7 @@ See: https://getkirby.com/docs/reference/system/options/panel#allow-the-panel-to
 
 **Gitpod & DDEV**
 
-Gitpod DDEV integration was done with helpful tips by @shaal. See `.gitpod.yml` and `.gitpod/`-folder.
+Gitpod DDEV integration was done with helpful tips by [@shaal](https://github.com/shaal). See `.gitpod.yml` and `.gitpod/`-folder.
 
 ## License
 
