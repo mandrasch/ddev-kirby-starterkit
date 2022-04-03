@@ -3,17 +3,19 @@
 
 [Kirby](https://getkirby.com/) CMS meets [DDEV](https://ddev.readthedocs.io/en/stable/).
 
+**Try out in your browser:**
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mandrasch/ddev-kirby-starterkit/)
 
-Status: gitpod doesn't work yet, permission denied error. Tried to implement based on this PR https://github.com/mandrasch/ddev-breeze-inertia-vue-starter/pull/1
-
-## Local usage
+**Local usage:**
 
 Clone to your local laptop and run:
 
 ```
 ddev start && ddev composer install && ddev launch
 ```
+
+If you wan't to use the backend, use `ddev launch /panel`.
 
 ## How was this created?
 
