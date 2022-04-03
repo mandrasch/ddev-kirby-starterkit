@@ -3,7 +3,6 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mandrasch/ddev-kirby-starterkit/)
 
-
 ## Local usage
 
 Clone to your local laptop and run:
@@ -12,7 +11,11 @@ Clone to your local laptop and run:
 ddev start && ddev composer install && ddev launch
 ```
 
+Status: gitpod doesn't work yet, permission denied error
+
 ## How was this created?
+
+Based on https://getkirby.com/docs/cookbook/setup/composer#installing-composer
 
 ```bash
 ddev config --project-type=php
