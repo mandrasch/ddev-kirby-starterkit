@@ -1,7 +1,7 @@
 
 # ddev-kirby-starterkit
 
-[Kirby](https://getkirby.com/) cms meets [DDEV](https://ddev.readthedocs.io/en/stable/).
+[Kirby](https://getkirby.com/) CMS meets [DDEV](https://ddev.readthedocs.io/en/stable/).
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mandrasch/ddev-kirby-starterkit/)
 
