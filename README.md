@@ -25,6 +25,8 @@ See https://github.com/getkirby/starterkit for more information.
 
 ## How was this created?
 
+**Kirby setup**
+
 Based on ["Installing via composer"](https://getkirby.com/docs/cookbook/setup/composer#installing-composer)-docs.
 
 ```bash
@@ -47,6 +49,9 @@ Since kirby does recognize DDEV local urls as remote sites, `/site/config/config
 
 See: https://getkirby.com/docs/reference/system/options/panel#allow-the-panel-to-be-installed-on-a-remote-server
 
+**Gitpod & DDEV**
+
+Gitpod DDEV integration was done with helpful tips by @shaal. See `.gitpod.yml` and `.gitpod/`-folder.
 
 ## License
 
