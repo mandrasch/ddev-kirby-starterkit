@@ -1,7 +1,7 @@
 
-# ddev-kirby-starterkit
+# DDEV Kirby Starterkit
 
-[Kirby](https://getkirby.com/) CMS meets [DDEV](https://ddev.readthedocs.io/en/stable/).
+[Kirby CMS](https://getkirby.com/) meets [DDEV](https://ddev.readthedocs.io/en/stable/) & [Gitpod](https://gitpod.io/).
 
 **Try out in your browser:**
 
@@ -15,11 +15,15 @@ Clone to your local laptop and run:
 ddev start && ddev composer install && ddev launch
 ```
 
-If you wan't to use the backend, use `ddev launch /panel`.
+If you wan't to open the backend, use `ddev launch /panel`.
+
+**About this starterkit**
+
+See https://github.com/getkirby/starterkit for more information.
 
 ## How was this created?
 
-Based on https://getkirby.com/docs/cookbook/setup/composer#installing-composer
+Based on ["Installing via composer"](https://getkirby.com/docs/cookbook/setup/composer#installing-composer)-docs.
 
 ```bash
 ddev config --project-type=php
@@ -31,14 +35,12 @@ composer create-project getkirby/starterkit starterkit-install-folder && \
     rm -rf starterkit-install-folder/
 ```
 
-Since kirby does recognize DDEV local urls as remote sites, edit `/site/config/config.php`:
+Since kirby does recognize DDEV local urls as remote sites, `/site/config/config.php` was edited:
 
 ```
-return [
   'panel' =>[
     'install' => true
   ]
-];
 ```
 
 See: https://getkirby.com/docs/reference/system/options/panel#allow-the-panel-to-be-installed-on-a-remote-server
