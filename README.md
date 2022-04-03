@@ -1,3 +1,10 @@
+
+TODO: Open in gitpod
+
+```
+ddev start && ddev composer install && ddev launch
+```
+
 ## How was this created?
 
 ```bash
@@ -9,3 +16,21 @@ composer create-project getkirby/starterkit starterkit-install-folder && \
     cp -Rp starterkit-install-folder/. /var/www/html && \
     rm -rf starterkit-install-folder/
 ```
+
+Since kirby does recognize DDEV local urls as remote sites, edit `/site/config/config.php`:
+
+```
+return [
+  'panel' =>[
+    'install' => true
+  ]
+];
+```
+
+See: https://getkirby.com/docs/reference/system/options/panel#allow-the-panel-to-be-installed-on-a-remote-server
+
+
+## License
+
+Kirby allows free local try outs, but for live sites purchasing a license is required.
+[getkirby.com](https://getkirby.com) · [License agreement](https://getkirby.com/license)
