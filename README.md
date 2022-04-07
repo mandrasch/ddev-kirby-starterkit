@@ -1,7 +1,7 @@
 
 # DDEV Kirby Starterkit
 
-[Kirby CMS](https://getkirby.com/) meets [DDEV](https://ddev.readthedocs.io/en/stable/) & [Gitpod](https://gitpod.io/).
+[Kirby CMS](https://getkirby.com/) meets [DDEV](https://ddev.com/) & [Gitpod](https://gitpod.io/).
 
 **Try it out in your browser:**
 

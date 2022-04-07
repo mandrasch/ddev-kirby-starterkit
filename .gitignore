@@ -1,3 +1,10 @@
+# TODO: Ignore content by default (or use this later on live site)?
+# /content
+
+/kirby
+/vendor
+
+# Ignore folders which are installed by composer
 /kirby
 /vendor
 
