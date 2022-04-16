@@ -54,6 +54,11 @@ See: https://getkirby.com/docs/reference/system/options/panel#allow-the-panel-to
 
 Gitpod DDEV integration was done with helpful tips by [@shaal](https://github.com/shaal). See `.gitpod.yml` and `.gitpod/`-folder.
 
+## Links
+
+- https://github.com/mandrasch/ddev-kirby-plainkit
+- https://github.com/mandrasch/bahn-zum-see (example site)
+
 ## License
 
 Kirby allows free local try outs, but for live sites purchasing a license is required.
