@@ -5,7 +5,7 @@
 
 This is just the official [getkirby/starterkit](https://github.com/getkirby/starterkit) with DDEV- and Gitpod-support added. 
 
-**Try it out in your browser:**
+**Launch in your browser via Gitpod:**
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mandrasch/ddev-kirby-starterkit/)
 
