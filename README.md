@@ -1,7 +1,9 @@
 
 # DDEV Kirby Starterkit
 
-[Kirby CMS](https://getkirby.com/) meets [DDEV](https://ddev.com/) & [Gitpod](https://gitpod.io/). This is just the official [getkirby/starterkit](https://github.com/getkirby/starterkit) with DDEV- and Gitpod-support added. 
+[Kirby CMS](https://getkirby.com/) meets [DDEV](https://ddev.com/) & [Gitpod](https://gitpod.io/). 
+
+This is just the official [getkirby/starterkit](https://github.com/getkirby/starterkit) with DDEV- and Gitpod-support added. 
 
 **Try it out in your browser:**
 
@@ -12,7 +14,7 @@
 
 **Local usage:**
 
-Clone to your local laptop and run:
+Clone to your local laptop and run (after installing [DDEV](https://ddev.com/)):
 
 ```
 ddev start && ddev composer install && ddev launch
