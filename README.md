@@ -1,7 +1,7 @@
 
 # DDEV Kirby Starterkit
 
-[Kirby CMS](https://getkirby.com/) meets [DDEV](https://ddev.com/) & [Gitpod](https://gitpod.io/).
+[Kirby CMS](https://getkirby.com/) meets [DDEV](https://ddev.com/) & [Gitpod](https://gitpod.io/). This is just the official [getkirby/starterkit](https://github.com/getkirby/starterkit) with DDEV- and Gitpod-support added. 
 
 **Try it out in your browser:**
 
@@ -52,12 +52,11 @@ See: https://getkirby.com/docs/reference/system/options/panel#allow-the-panel-to
 
 **Gitpod & DDEV**
 
-Gitpod DDEV integration was done with helpful tips by [@shaal](https://github.com/shaal). See `.gitpod.yml` and `.gitpod/`-folder.
+Gitpod DDEV integration was done with helpful tips by [@shaal](https://github.com/shaal). See `.gitpod.yml`, `.gitpod/`-folder and [shaal/ddev-gitpod](https://github.com/shaal/ddev-gitpod) for more information. Join [ddev Discord](https://discord.gg/hCZFfAMc5k) if you have questions or checkout [ddev.com](https://ddev.com).
 
 ## Links
 
 - https://github.com/mandrasch/ddev-kirby-plainkit
-- https://github.com/mandrasch/bahn-zum-see (example site)
 
 ## License
 
